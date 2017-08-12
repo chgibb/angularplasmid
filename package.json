@@ -1,5 +1,5 @@
 {
-  "name": "angularplasmid",
+  "name": "@chgibb/angularplasmid",
   "version": "1.0.5",
   "description": "Biological Plasmid Visualization Component using AngularJS",
   "main": "index.js",
