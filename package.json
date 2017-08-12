@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vixis/angularplasmid.git"
+    "url": "https://github.com/chgibb/angularplasmid.git"
   },
   "author": "Rehan Chawdry",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vixis/angularplasmid/issues"
+    "url": "https://github.com/chgibb/angularplasmid/issues"
   },
-  "homepage": "https://github.com/vixis/angularplasmid",
+  "homepage": "https://github.com/chgibb/angularplasmid",
   "devDependencies": {
     "browserify": "^8.1.3",
     "del": "^0.1.1",
